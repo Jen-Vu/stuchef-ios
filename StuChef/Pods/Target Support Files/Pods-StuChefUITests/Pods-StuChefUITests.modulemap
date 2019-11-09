@@ -1,0 +1,6 @@
+framework module Pods_StuChefUITests {
+  umbrella header "Pods-StuChefUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
